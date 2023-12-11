@@ -8,5 +8,7 @@ public class Main {
             return sum;
         };
         System.out.println(is.sumOfNums(Integer.parseInt(args[0]),Integer.parseInt(args[1])));
+
+        //Rino And Ayush
     }
 }
